@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of gm-fire/nicknames.** Not for installation: use [Packagist](https://packagist.org/packages/gm-fire/nicknames) or the [upstream repository](https://github.com/gm-fire/nicknames).
 
-**0** versions archived · Latest: [`v1.8.1`](https://github.com/flarchive/gm-fire-nicknames/tree/archive/v1.8.1) · License: `MIT` · Flarum: `^1.8`
+**1** versions archived · Latest: [`v1.8.1`](https://github.com/flarchive/gm-fire-nicknames/tree/archive/v1.8.1) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.8.1` | 2025-04-16 | `^1.8` | [Browse](https://github.com/flarchive/gm-fire-nicknames/tree/archive/v1.8.1) |
 
 Catalog entry: [packages/gm-fire-nicknames.json](https://github.com/flarchive/archive-index/blob/main/packages/gm-fire-nicknames.json)
 
